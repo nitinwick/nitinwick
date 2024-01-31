@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nitinatwal
+- 👀 I’m interested in AI & ML 
+- 🌱 I’m currently learning Cryptography 
+- 💞️ I’m looking to collaborate on Block Chain Technology 
